@@ -20,7 +20,7 @@ Este é o principal material da disciplina de Trabalho de Conclusão de Curso I.
 
 ## Cronograma
 
-Para mais detalhes do [Cronograma](Cronogramas/cronograma.md "Cronograma")  
+Para mais detalhes do [Cronograma](Cronogramas/ "Cronograma")  
 
 ## Dicionário
 
