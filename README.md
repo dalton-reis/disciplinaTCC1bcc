@@ -37,7 +37,7 @@ Se vocês receberem as revisão do pré-projeto feita pelo seu orientador, e for
 [Aula03: Projeto - Visão Geral](Aulas/aula03Anotacoes.md "Aula03: Projeto - Visão Geral")  
 [Aula04: Projeto - Visão Geral, continuação](Aulas/aula04Anotacoes.md "Aula04: Projeto - Visão Geral, continuação")  
 [Aula05: Projeto - Partes constituintes](Aulas/aula05Anotacoes.md "Aula05: Projeto - Partes constituintes")  
-[Aula10: Defesa Qualificação - BCC](Aulas/aula10AnotacoesBCC.md "Aula10: Defesa Qualificação - BCC")  
+[Aula09: Defesa Qualificação - BCC](Aulas/aula09AnotacoesBCC.md "Aula09: Defesa Qualificação - BCC")  
 [Aula13: Projeto](Aulas/aula13Anotacoes.md "Aula13: Projeto")  
 
 ## Material
