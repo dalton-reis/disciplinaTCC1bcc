@@ -111,12 +111,12 @@ Dia da semana:  Segundas (18:30\~22:00)
   
 - Análise do Pré-Projeto - Atendimento Individual  
   
-### [Aula_17](Unidade4/aula.md#Aula_17 " 19-06-2023  ( segunda-feira )  
+### Aula_17 19-06-2023  ( segunda-feira )  
   
 - **Entrega do Projeto**  
 - Avaliação dos Projetos (banca)  
   
-### [Aula_18](Unidade4/aula.md#Aula_18 " 26-06-2023  ( segunda-feira )  
+### Aula_18 26-06-2023  ( segunda-feira )  
   
 - Avaliação dos Projetos (banca)  
   
