@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="229px" preserveAspectRatio="none" style="width:404px;height:229px;background:#000000;" version="1.1" viewBox="0 0 404 229" width="404px" zoomAndPan="magnify"><defs/><g><rect fill="#0D2325" height="1" style="stroke:#0D2325;stroke-width:1.0;" width="1" x="0" y="0"/><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="116" x="5" y="17">PlantUML 1.2022.7</text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="4" x="5" y="31.1328"> </text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="380" x="5" y="45.2656">&lt;b&gt;This version of PlantUML is 190 days old, so you should</text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="390" x="5" y="59.3984">&lt;b&gt;consider upgrading from https://plantuml.com/download</text><rect fill="#33FF02" height="21.4883" style="stroke:#33FF02;stroke-width:1.0;" width="210" x="5" y="69.5313"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="165" x="6" y="84.5313">[From string (line 30) ]</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="5" x="5" y="105.0195"> </text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="210" x="5" y="121.5078">@startgantt cronograma_BCC</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="5" x="5" y="137.9961"> </text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="5" x="5" y="154.4844"> </text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="129" x="5" y="170.9727">ganttscale weekly</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="5" x="5" y="187.4609"> </text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" text-decoration="wavy underline" textLength="192" x="5" y="203.9492">Project starts 27-02-2023</text><text fill="#FF0000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="94" x="10" y="220.4375">Syntax Error?</text><!--MD5=[3663c6e6a9381b57b890e4b45e9ad423]
+@startgantt cronograma_BCC
+
+/'TODO: tentar usar variáveis do sistema: https://blog.jdriven.com/2017/01/plantuml-pleasantness-using-current-date/  '/
+/'atualizar'/
+!$dataInicio = "27-02-2023"
+!$dataFim  = "26-06-2023"
+!$Aula01 = $dataInicio
+!$Aula02 = "06-03-2023"
+!$Aula03 = "13-03-2023"
+!$Aula04 = "20-03-2023"
+!$Aula05 = "27-03-2023"
+!$Aula06 = "03-04-2023"
+!$Aula07 = "10-04-2023"
+!$Aula08 = "17-04-2023"
+!$Aula09 = "24-04-2023"
+!$Aula10 = "01-05-2023"
+!$Aula11 = "08-05-2023"
+!$Aula12 = "15-05-2023"
+!$Aula13 = "22-05-2023"
+!$Aula14 = "29-05-2023"
+!$Aula15 = "05-06-2023"
+!$Aula16 = "12-06-2023"
+!$Aula17 = "19-06-2023"
+!$Aula18 = $dataFim
+!$dataAtual  = $Aula02
+/'atualizar'/
+
+ganttscale weekly
+
+Project starts $dataInicio
+
+- - cronograma - - 
+[completado] is colored in green
+[completado] starts $dataInicio and ends $dataAtual
+[falta] starts $dataAtual and ends $dataFim
+[falta] is colored in blue
+
+- - Aulas - - 
+[Termo] is colored in Red
+[Termo]  starts $Aula01 and ends $Aula03
+[Aula01] starts $Aula01 and ends $Aula01
+[Aula02] starts $Aula02 and ends $Aula02
+[Aula03] starts $Aula03 and ends $Aula03
+note bottom
+Entrega: Termo de Compromisso
+end note
+[Pré-projeto (BCC)] starts at [Termo]'s end
+[Pré-projeto (BCC)] ends $Aula09
+[Aula04] starts $Aula04 and ends $Aula04
+[Aula05] starts $Aula05 and ends $Aula05
+[Aula06] starts $Aula06 and ends $Aula06
+[Aula07] starts $Aula07 and ends $Aula07
+[Aula08] starts $Aula08 and ends $Aula08
+[Aula09] starts $Aula09 and ends $Aula09
+note bottom
+Entrega: Pré-projeto (BCC) 
+end note
+[Aula10] starts $Aula10 and ends $Aula10
+[Banca] starts at [Pré-projeto (BCC)]'s end with green dashed link
+[Banca] ends $Aula13
+[Aula11] starts $Aula11 and ends $Aula11
+note bottom
+Bancas (BCC) 
+end note
+[Aula12] starts $Aula12 and ends $Aula12
+note bottom
+Bancas (BCC) 
+end note
+[Aula13] starts $Aula13 and ends $Aula13
+[Projeto] starts at [Banca]'s end with cyan dashed link
+[Projeto] ends $Aula17
+[Aula14] starts $Aula14 and ends $Aula14
+[Aula15] starts $Aula15 and ends $Aula15
+[Aula16] starts $Aula16 and ends $Aula16
+[Aula17] starts $Aula17 and ends $Aula17
+note bottom
+Entrega: Projeto 
+end note
+[Final] starts at [Projeto]'s end with blue dashed link
+[Final] ends $Aula18
+note bottom
+Avaliações: Projetos
+end note
+[Aula18] starts $Aula18 and ends $Aula18
+
+@endgantt
+
+@startgantt cronograma_BCC
+
+
+ganttscale weekly
+
+Project starts 27-02-2023
+
+- - cronograma - - 
+[completado] is colored in green
+[completado] starts 27-02-2023 and ends 06-03-2023
+[falta] starts 06-03-2023 and ends 26-06-2023
+[falta] is colored in blue
+
+- - Aulas - - 
+[Termo] is colored in Red
+[Termo]  starts 27-02-2023 and ends 13-03-2023
+[Aula01] starts 27-02-2023 and ends 27-02-2023
+[Aula02] starts 06-03-2023 and ends 06-03-2023
+[Aula03] starts 13-03-2023 and ends 13-03-2023
+note bottom
+Entrega: Termo de Compromisso
+end note
+[Pré-projeto (BCC)] starts at [Termo]'s end
+[Pré-projeto (BCC)] ends 24-04-2023
+[Aula04] starts 20-03-2023 and ends 20-03-2023
+[Aula05] starts 27-03-2023 and ends 27-03-2023
+[Aula06] starts 03-04-2023 and ends 03-04-2023
+[Aula07] starts 10-04-2023 and ends 10-04-2023
+[Aula08] starts 17-04-2023 and ends 17-04-2023
+[Aula09] starts 24-04-2023 and ends 24-04-2023
+note bottom
+Entrega: Pré-projeto (BCC) 
+end note
+[Aula10] starts 01-05-2023 and ends 01-05-2023
+[Banca] starts at [Pré-projeto (BCC)]'s end with green dashed link
+[Banca] ends 22-05-2023
+[Aula11] starts 08-05-2023 and ends 08-05-2023
+note bottom
+Bancas (BCC) 
+end note
+[Aula12] starts 15-05-2023 and ends 15-05-2023
+note bottom
+Bancas (BCC) 
+end note
+[Aula13] starts 22-05-2023 and ends 22-05-2023
+[Projeto] starts at [Banca]'s end with cyan dashed link
+[Projeto] ends 19-06-2023
+[Aula14] starts 29-05-2023 and ends 29-05-2023
+[Aula15] starts 05-06-2023 and ends 05-06-2023
+[Aula16] starts 12-06-2023 and ends 12-06-2023
+[Aula17] starts 19-06-2023 and ends 19-06-2023
+note bottom
+Entrega: Projeto 
+end note
+[Final] starts at [Projeto]'s end with blue dashed link
+[Final] ends 26-06-2023
+note bottom
+Avaliações: Projetos
+end note
+[Aula18] starts 26-06-2023 and ends 26-06-2023
+
+@endgantt
+
+PlantUML version 1.2022.7(Mon Aug 22 14:01:30 BRT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: BR
+--></g></svg>
