@@ -1,9 +1,8 @@
-# Regulamentos
+# Regulamento
 
 \[BCC] [BCC_RegulamentoTCC](Material/BCC_RegulamentoTCC.md "BCC_RegulamentoTCC")  
-\[SIS] [SIS_RegulamentoTCC](Material/SIS_RegulamentoTCC.md "SIS_RegulamentoTCC")  
 
-## Resumo Regulamento do TCC do BCC e SIS (links do BCC)
+## Resumo Regulamento do TCC do BCC
 
 - usar o último regulamento aprovado.  
 - TCC1 é pré-requisito de TCC2 [Capítulo I](Material/BCC_RegulamentoTCC.md#cap%C3%ADtulo-i---do-conceito-ou-disposições-preliminares) e [Capítulo III](Material/BCC_RegulamentoTCC.md#cap%C3%ADtulo-iii---da-carga-horária-da-matr%C3%ADcula-e-da-frequência)  

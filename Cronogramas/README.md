@@ -6,7 +6,7 @@
 
 [Semana Acadêmica](https://github.com/dalton-reis/dalton-reis/blob/main/_._/semanaAcademica.md "Semana Acadêmica")  
 
-<!-- [SEMINCO: BCC e SIS](<> "SEMINCO: BCC e SIS")  -->
+<!-- [SEMINCO: BCC](<> "SEMINCO: BCC")  -->
 
 ## Observações de Entrega  
 
