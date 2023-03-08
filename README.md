@@ -9,7 +9,7 @@ Olá, seja bem vindo .. 😁
 
 Este é o principal material da disciplina de Trabalho de Conclusão de Curso I. O conteúdo está dividido em pastas, mas observe que novos materiais serão disponibilizados no decorrer do semestre.
 
-**ATENÇÃO**: caso o aluno esteja refazendo a disciplina, é de inteira responsabilidade do aluno ajustar o [Termo de Compromisso](Aulas/aula01Anotacoes.md#termo-de-compromisso "Termo de Compromisso") e as versões do [Pré-Projeto](Aulas/aula02Anotacoes.md#modelos-projetos "Pré-Projeto") e [Projeto](Aulas/aula02Anotacoes.md "Projeto") caso tenha ocorrido alguma mudança nos modelos destes documentos. No caso o aluno tem **obrigação** de usar o modelo mais recente disponível.  
+**ATENÇÃO**: caso o aluno esteja refazendo a disciplina, é de inteira responsabilidade do aluno ajustar o [Termo de Compromisso](Aulas/aula01Anotacoes.md#termo-de-compromisso "Termo de Compromisso") e as versões do [Pré-Projeto](Aulas/aula02Anotacoes.md#modelos-projetos "Pré-Projeto") e [Projeto](Aulas/aula02Anotacoes.md#modelos-projetos "Projeto") caso tenha ocorrido alguma mudança nos modelos destes documentos. No caso o aluno tem **obrigação** de usar o modelo mais recente disponível.  
 
 ## Links
 
