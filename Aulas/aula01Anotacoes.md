@@ -31,7 +31,7 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem:
 - Data: prazos **muito importante** ... pode resultar em reprovação;  
 - Entregáveis: atendendo critérios mínimos, senão nem é aceito;  
 - Referências bibliográficas: ABNT, modelos, exemplos etc;  
-- Proatividade: o principal papel do orientando (o aluno), evite a [Procrastinação](../Aulas/Procrastinacao.pdf "Procrastinação");  
+- Proatividade: o principal papel do orientando (o aluno), evite a [Procrastinação](../Aulas/aula01Procrastinacao.pdf "Procrastinação");  
 - só vale a pena fazer essa disciplina quem quer fazer o TCC nos dois próximos semestres (TEM DATA DE VALIDADE);  
 - coorientador não pode ser avaliador em BCC.  
 

@@ -13,7 +13,7 @@ Este é o principal material da disciplina de Trabalho de Conclusão de Curso I.
 
 ## Links
 
-[Matriz curricular BCC](<https://github.com/dalton-reis/dalton-reis/blob/main/_._/matriz_BCC.pdf> "Matriz curricular BCC")  
+[Matriz curricular BCC](https://github.com/dalton-reis/dalton-reis/blob/main/_._/matriz_BCC.pdf "Matriz curricular BCC")  
 [AVA3 BCC]  
 [Plano Ensino AVA BCC]  
 [Aulas MS-Teams BCC]  

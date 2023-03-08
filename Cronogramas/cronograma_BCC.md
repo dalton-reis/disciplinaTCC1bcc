@@ -29,6 +29,21 @@ Dia da semana:  Segundas (18:30\~22:00)
   
 - [aula01Anotacoes](../Aulas/aula01Anotacoes.md "aula01Anotacoes")  
 - Termo - Formulação  
+- Termo - Atendimento Individual  
+
+  - [x] Jeferson Bonecher  
+  - [x] Thomas Michels Rodrigues  
+  - [x] Guilherme Fibrantz  
+  - [x] Eduarda Engels  
+  - [x] Everton Luiz Piccoli  
+  - [x] Gustavo Felipe Soares  
+  - [x] Nathan Reikdal Cervieri  
+  - [x] Giancarlo Cavalli  
+  - [x] Igor Christofer Eisenhut  
+  - [x] Christian Trisotto Alegri  
+  - [x] Rossana Ariadna Schumann Dullius  
+  - [x] Camila Carolina Bowens  
+  - [x] Bruno Ricardo Junkes  
   
 ### Aula_02 06-03-2023  ( segunda-feira )  
   
@@ -41,20 +56,20 @@ Dia da semana:  Segundas (18:30\~22:00)
   
 - **Entrega do Termo de Compromisso de TCC**  
 - [aula03Anotacoes](../Aulas/aula03Anotacoes.md "aula03Anotacoes")  
-- [aula03Slides](../Aulas/aula03Slides.pdf “aula03Slides")  
+- [aula03Slides](../Aulas/aula03Slides.pdf "aula03Slides")
 - Pré-Projeto - Formulação  
   
 ### Aula_04 20-03-2023  ( segunda-feira )  
   
 <!-- \[AVISO] Orientadores https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67524750 -->  
 - [aula04Anotacoes](../Aulas/aula04Anotacoes.md "aula04Anotacoes")  
-- [aula04Slides](../Aulas/aula04Slides.pdf “aula04Slides")  
+- [aula04Slides](../Aulas/aula04Slides.pdf "aula04Slides")  
 - Pré-Projeto - Formulação  
   
 ### Aula_05 27-03-2023  ( segunda-feira )  
   
 <!-- \[AVISO] banca BCC https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-67445813 -->  
-- [aula05Anotacoes](../Aulas/aula05Anotacoes.md “aula05Anotacoes")  
+- [aula05Anotacoes](../Aulas/aula05Anotacoes.md "aula05Anotacoes")  
 - Pré-Projeto - Formulação  
   
 ### Aula_06 03-04-2023  ( segunda-feira )  
@@ -65,12 +80,38 @@ Dia da semana:  Segundas (18:30\~22:00)
   
 <!-- \[AVISO] Atendimento BCC: https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-85660899 -->  
 - Pré-Projeto - Atendimento Individual  
-![Atendimento BCC](../Cronogramas/AtendimentoBCC_A.png "Atendimento BCC")  
-  
+
+  - [ ]  
+  - [ ]  
+  - [ ]  
+  - [ ]  
+  - [ ]  
+  - [ ]  
+  - [ ]  
+  - [ ]  
+  - [ ]  
+  - [ ]  
+  - [ ]  
+  - [ ]  
+  - [ ]  
+
 ### Aula_08 17-04-2023  ( segunda-feira )  
   
 - Pré-Projeto - Atendimento Individual  
-![Atendimento BCC](../Cronogramas/AtendimentoBCC_B.png "Atendimento BCC")  
+
+  - [ ]  
+  - [ ]  
+  - [ ]  
+  - [ ]  
+  - [ ]  
+  - [ ]  
+  - [ ]  
+  - [ ]  
+  - [ ]  
+  - [ ]  
+  - [ ]  
+  - [ ]  
+  - [ ]  
   
 ### Aula_09 24-04-2023  ( segunda-feira )  
   
@@ -96,7 +137,7 @@ Dia da semana:  Segundas (18:30\~22:00)
   
 ### Aula_13 22-05-2023  ( segunda-feira )  
   
-- [aula13Anotacoes](../Aulas/aula13Anotacoes.md “aula13Anotacoes")  
+- [aula13Anotacoes](../Aulas/aula13Anotacoes.md "aula13Anotacoes")  
 - Análise do Pré-Projeto  
   
 ### Aula_14 29-05-2023  ( segunda-feira )  
