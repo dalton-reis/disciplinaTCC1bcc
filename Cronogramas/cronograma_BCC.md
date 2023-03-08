@@ -82,35 +82,11 @@ Dia da semana:  Segundas (18:30\~22:00)
 - Pré-Projeto - Atendimento Individual  
 
   - [ ]  
-  - [ ]  
-  - [ ]  
-  - [ ]  
-  - [ ]  
-  - [ ]  
-  - [ ]  
-  - [ ]  
-  - [ ]  
-  - [ ]  
-  - [ ]  
-  - [ ]  
-  - [ ]  
 
 ### Aula_08 17-04-2023  ( segunda-feira )  
   
 - Pré-Projeto - Atendimento Individual  
 
-  - [ ]  
-  - [ ]  
-  - [ ]  
-  - [ ]  
-  - [ ]  
-  - [ ]  
-  - [ ]  
-  - [ ]  
-  - [ ]  
-  - [ ]  
-  - [ ]  
-  - [ ]  
   - [ ]  
   
 ### Aula_09 24-04-2023  ( segunda-feira )  
