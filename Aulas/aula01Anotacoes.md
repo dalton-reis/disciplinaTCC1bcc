@@ -31,7 +31,7 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem:
 - Data: prazos **muito importante** ... pode resultar em reprovação;  
 - Entregáveis: atendendo critérios mínimos, senão nem é aceito;  
 - Referências bibliográficas: ABNT, modelos, exemplos etc;  
-- Proatividade: o principal papel do orientando (o aluno), evite a [Procrastinação](../Material/Procrastinacao.pdf "Procrastinação");  
+- Proatividade: o principal papel do orientando (o aluno), evite a [Procrastinação](../Aulas/Procrastinacao.pdf "Procrastinação");  
 - só vale a pena fazer essa disciplina quem quer fazer o TCC nos dois próximos semestres (TEM DATA DE VALIDADE);  
 - coorientador não pode ser avaliador em BCC.  
 
@@ -42,7 +42,7 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem:
 
 ## Cronograma
 
-\[BCC] [Cronograma](../Cronogramas/cronograma.md "Cronograma")  
+\[BCC] [Cronograma](../Cronogramas/cronograma_BCC.md "Cronograma")  
 
 ## Regulamentos do TCC
 
@@ -56,7 +56,7 @@ O que deve ser feito para encaminhar o Termo de Compromisso:
 - fazer o cadastro no [Currículo Lattes](https://wwws.cnpq.br/cvlattesweb/pkg_cv_estr.inicio# "Currículo Lattes"); Faça o cadastro o quanto antes, não precisa esperar para ter os dados do termo (conversar com orientador etc.);  
 -->
 
-- seguir as [Observações de Entrega](../Cronogramas/cronograma.md#observações-de-entrega "Observações de Entrega") do inicio do cronograma;  
+- seguir as [Observações de Entrega](../Cronogramas/README.md#observações-de-entrega "Observações de Entrega") do inicio do cronograma;  
 <!-- - \[BCC] [lista professores do DSC](professoresDSC.md "lista professores do DSC") -->  
 ### \[BCC] [lista professores do DSC](http://dsc.inf.furb.br/professores "lista professores do DSC")  
 
