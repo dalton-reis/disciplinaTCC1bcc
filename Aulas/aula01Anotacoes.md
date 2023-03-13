@@ -42,7 +42,7 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem:
 
 ## Cronograma
 
-\[BCC] [Cronograma](../Cronogramas/cronograma_BCC.md "Cronograma")  
+\[BCC] [Cronograma](../Cronogramas/ "Cronograma")  
 
 ## Regulamentos do TCC
 
