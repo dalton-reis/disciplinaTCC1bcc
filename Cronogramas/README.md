@@ -1,8 +1,8 @@
 # Cronograma: BCC  2023-1 BCC  
 
 Local:  Remoto (MS-Teams)  
-Dia da semana:  Segundas (18:30\~22:00)  
-  
+Dia da semana: Segundas (18:30\~22:00)  
+
 <!-- [ ] Aviso: Inicio das aulas <> -->  
 
 ## Eventos  
@@ -103,7 +103,7 @@ Dia da semana:  Segundas (18:30\~22:00)
 - Pré-Projeto - Atendimento Individual  
 
   - [ ]  
-  
+
 ### Aula_09 24-04-2023  ( segunda-feira )  
   
 - **Entrega do Pré-Projeto (BCC)**  
