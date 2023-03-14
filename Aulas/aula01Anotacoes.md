@@ -18,11 +18,11 @@
 ## Apresentação da Disciplina
 
 - **Avisos**: todos os avisos serão feitos por e-mail institucional (aluno@furb.br)  
-- \[BCC] [AVA3 BCC]  
+- [AVA3 BCC]  
 
 ### Plano de Ensino
 
-\[BCC] [Plano Ensino AVA BCC]  
+[Plano Ensino AVA BCC]  
 
 Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem:
 
@@ -42,7 +42,7 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem:
 
 ## Cronograma
 
-\[BCC] [Cronograma](../Cronogramas/ "Cronograma")  
+[Cronograma](../Cronogramas/ "Cronograma")  
 
 ## Regulamentos do TCC
 
@@ -57,10 +57,9 @@ O que deve ser feito para encaminhar o Termo de Compromisso:
 -->
 
 - seguir as [Observações de Entrega](../Cronogramas/README.md#observações-de-entrega "Observações de Entrega") do inicio do cronograma;  
-<!-- - \[BCC] [lista professores do DSC](professoresDSC.md "lista professores do DSC") -->  
-### \[BCC] [lista professores do DSC](https://www.furb.br/dsc/professores "lista professores do DSC")  
+### [lista professores do DSC](https://www.furb.br/dsc/professores "lista professores do DSC")  
 
-\[BCC] [BCC_TermoCompromisso.docx](../Material/BCC_TermoCompromisso.docx "BCC_TermoCompromisso.docx")  
+[BCC_TermoCompromisso.docx](../Material/BCC_TermoCompromisso.docx "BCC_TermoCompromisso.docx")  
 
 ----------
 

@@ -30,6 +30,14 @@ Consulta a palavras em português e se são termos estrangeiros: [Termos Estrang
 
 Se vocês receberem as revisão do pré-projeto feita pelo seu orientador, e for em um arquivo PDF, cuidem para abrir o arquivo PDF num leitor de PDF e não somente no navegador (Chrome, Safari etc.). Pois se abrirem direto no navegador vocês verão o texto "riscado" (frisado) mas não verão as anotações. Então usem um leitor de PDF instalado localmente no seu PC.  
 
+## Termo de autorização de uso de imagem
+
+Para os trabalhos que tenham fotografias de locais ou objetivos
+privativos, recomendamos a utilização do [Termo de Autorização
+de Uso de Imagem](https://furb.sharepoint.com/:w:/r/biblioteca/Documentos%20secretaria/Termos%20e%20Normas%20ABNT/Termo%20de%20autoriza%C3%A7%C3%A3o%20de%20uso%20de%20imagem.doc?d=w3aba956a8ae8476184d9ee5d3756a2a4&csf=1&web=1&e=uzYM1f). Esse documento não é entregue para a
+Universidade, ficando com o acadêmico para fins de resguardo
+legal.
+
 ## Anotações de Aula
 
 [Aula01: Visão Geral da Disciplina](Aulas/aula01Anotacoes.md "Aula01: Visão Geral da Disciplina")  

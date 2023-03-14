@@ -7,14 +7,14 @@
 
 ## Como estabelecer um problema de pesquisa
 
-\[BCC] [aula02Slides.pdf](aula02Slides.pdf "aula02Slides.pdf")  
+[aula02Slides.pdf](aula02Slides.pdf "aula02Slides.pdf")  
 
 ## Modelos Projetos
 
 - ler com **muita atenção** os comentários descritos nos modelos;  
 - usar o modelo **correto** de acordo com o seu curso e modalidade.  
 
-\[BCC] [BCC_Projeto.docx](../Material/BCC_Projeto.docx "BCC_Projeto.docx")  
+[BCC_Projeto.docx](../Material/BCC_Projeto.docx "BCC_Projeto.docx")  
 
 ## Quando iniciar Pré-Projeto?
 
