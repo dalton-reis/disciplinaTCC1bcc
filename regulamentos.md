@@ -1,6 +1,6 @@
 # Regulamento
 
-\[BCC] [BCC_RegulamentoTCC](./Material/BCC_RegulamentoTCC.md "BCC_RegulamentoTCC")  
+[BCC_RegulamentoTCC](./Material/BCC_RegulamentoTCC.md "BCC_RegulamentoTCC")  
 
 ## Resumo Regulamento do TCC do BCC
 
